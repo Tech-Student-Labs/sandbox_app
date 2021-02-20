@@ -1,4 +1,5 @@
 # Capstone Team Project
+Newline
 
 * [Learn Dashboard](https://learn-2.galvanize.com/cohorts/2328)
 * [Project Board](https://github.com/orgs/Tech-Student-Labs/projects)
