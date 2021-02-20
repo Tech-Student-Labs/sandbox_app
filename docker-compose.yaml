@@ -1,0 +1,14 @@
+# The Docker Config version. Do not change.
+version: "3"
+services:
+  service_name:
+    image: myimage
+    
+# Persists data across deployments so database isn't lost
+volumes:
+  volume_name:
+    driver: local
+
+# Defines a shared network for all services to connect them and share data
+networks:
+  network_name:
